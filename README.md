@@ -55,5 +55,5 @@ Jako, że wykorzystywane przez nas w tym projekcie API napisane jest całkowicie
 
 Projekt powstał na potrzeby zaliczenia przedmiotu z rąk:
 
-Oleksandra Zakharchenko 56863
+Oleksandra Zakharchenko 56863,
 Mateusz Jutrzenka 56113
